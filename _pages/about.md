@@ -16,7 +16,7 @@ I am Sina Negarandeh, an undergraduate computer engineering student in the [Coll
 
 My research interests are **Machine Learning**, **Natural Language Processing**, and  **Data Analytics**. And especially their applications in **healthcare**. More specifically, topics I am interested in are:
 
-#### Artificial Intelligence
+### Artificial Intelligence
 
 - Machine Learning
   - Deep Learning
@@ -24,7 +24,7 @@ My research interests are **Machine Learning**, **Natural Language Processing**,
 
 - Natural Language Processing
 
-#### Data Science
+### Data Science
 
 - Data Analytics
   - Data Mining
