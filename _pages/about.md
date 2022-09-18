@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sina Negarandeh"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## About me
+## Academic Biography
 
 I am Sina Negarandeh, an undergraduate computer engineering student in the [College of Electric and Computer Engineering](https://ece.ut.ac.ir/en/) at the [University of Tehran](https://ut.ac.ir/en).
 
