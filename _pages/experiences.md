@@ -4,11 +4,14 @@ title: "Experiences"
 permalink: /experiences/
 author_profile: true
 redirect_from:
-  - /experiences
+  - /experience
+  - /education
+  - /research
+  - /teaching
+  - /professional
 ---
 
 {% include base_path %}
-
 
 ## Education
 
