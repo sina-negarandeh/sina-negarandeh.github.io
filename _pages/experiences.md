@@ -51,4 +51,6 @@ redirect_from:
 
 ## Work Experiences
 
-### • Back end Developer Intern, TAPSI (Jul. 2021 ‑ Jan. 2022)
+### TAPSI
+
+#### • Back end Developer Intern (Jul. 2021 ‑ Jan. 2022)
