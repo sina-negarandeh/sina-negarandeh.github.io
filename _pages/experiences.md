@@ -17,7 +17,7 @@ redirect_from:
 
 ### University of Tehran
 
-#### • B.S. in Computer Engineering (2018 - 2023)
+#### • B.Sc. in Computer Engineering (2018 - 2023)
 
 ## Research Experiences
 

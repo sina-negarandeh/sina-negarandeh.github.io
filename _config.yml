@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sina Negarandeh"
 title_separator          : "-"
 name                     : &name "Sina"
-description              : &description "BSc. In Computer Engineering (Software Engineering Major)"
+description              : &description "B.Sc. In Computer Engineering (Software Engineering Major)"
 url                      : https://sina-negarandeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sina-negarandeh/sina-negarandeh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sina Negarandeh"
   avatar           : "profile.jpg"
-  bio              : "Computer Engineering BSc. at the University of Tehran"
+  bio              : "Computer Engineering B.Sc. at the University of Tehran"
   location         : "Tehran, Iran"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
