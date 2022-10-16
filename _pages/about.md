@@ -27,7 +27,8 @@ My research interests are **Machine Learning**, **Natural Language Processing**,
 ### Data Science
 
 - Data Analytics
-  - Data Mining
+
+### Human‑Computer Interaction
 
 ## Contact
 
