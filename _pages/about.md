@@ -10,7 +10,7 @@ redirect_from:
 
 ## Academic Biography
 
-I am Sina Negarandeh, an undergraduate computer engineering student in the [College of Electric and Computer Engineering](https://ece.ut.ac.ir/en/) at the [University of Tehran](https://ut.ac.ir/en).
+I am Sina Negarandeh, a recent graduate with a Bachelor of Science degree in Computer Engineering from the [College of Electric and Computer Engineering](https://ece.ut.ac.ir/en/) at the [University of Tehran](https://ut.ac.ir/en).
 
 ## Research
 
