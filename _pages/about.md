@@ -16,10 +16,10 @@ I am Sina Negarandeh, a recent graduate with a Bachelor of Science degree in Com
 
 I am fascinated by the potential of artificial intelligence and machine learning to tackle complex real-world problems. I enjoy identifying applications where these technologies can have a meaningful impact, and developing innovative solutions using the latest AI and ML techniques. My research interests span across:
 
-- **Artificial Intelligence**
-  - **Machine Learning**
-    - **Deep Learning**
-  - **Natural Language Processing**
-  - **Data Mining**
-    - **Social Network Analysis**
-  - **AI in healthcare**
+- Artificial Intelligence
+  - Machine Learning
+    - Deep Learning
+  - Natural Language Processing
+  - Data Mining
+    - Social Network Analysis
+  - AI in Healthcare
