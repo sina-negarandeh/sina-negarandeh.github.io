@@ -23,7 +23,3 @@ I am fascinated by the potential of artificial intelligence and machine learning
   - **Data Mining**
     - **Social Network Analysis**
   - **AI in healthcare**
-
-## Contact
-
-If you need any further information, please contact me.
